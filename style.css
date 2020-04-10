@@ -1,0 +1,13 @@
+.side-img{
+   width:50%;
+   height:100px;
+   padding-left:25%;
+  float:center;
+}
+ body { 
+    font-family:sans-serif;
+ }
+ h1 { 
+     font-family: sans-serif;
+     text-align: center;
+ }
